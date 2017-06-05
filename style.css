@@ -1,0 +1,87 @@
+body {
+  background-color: #F6F6F6;
+  border-top: 5px solid #222222;
+  border-bottom: 5px solid #222222;
+  margin: 30px auto;
+  padding: 50px;
+  width: 800px;
+
+}
+nav li {
+  display: inline-block;
+}
+nav {
+  color: #222222;
+}
+a {
+  font-weight: bold;
+  color: #05080C;
+  font-family: helvetica;
+}
+li.current_page a {
+  text-decoration: none;
+  font-style: italic;
+}
+header {
+  text-align: center;
+}
+img.avatar {
+  height: 200px;
+  float: right;
+}
+ul{
+  padding: 0;
+}
+.listindent{
+  margin-left: 30px;
+}
+hr{
+  border: none;
+  border-top: 1px solid #222222;
+  margin: 30px 0px;
+}
+hr.stabline {
+  margin-right: 200px;
+}
+p.about{
+  margin-right: 200px;
+}
+img{
+  border: 1px solid black;
+  margin: auto 20px;
+  padding: 5px;
+}
+footer{
+  text-align: center;
+  margin-right: 200px;
+}
+h4 li{
+  display: inline-block;
+}
+li.jobtitle{
+  font-style: italic;
+}
+li.sitename{
+  font-weight: normal;
+  font-family: "Artifika";
+}
+li.timeline{
+  font-weight: normal;
+  font-family: "Artifika";
+  font-size: small;
+}
+h1{
+  font-family: helvetica;
+}
+h2{
+  font-family: helvetica;
+}
+h3{
+  font-family: "Armata";
+}
+.education{
+  list-style: none;
+}
+footer.center{
+  margin: auto;
+}
